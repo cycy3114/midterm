@@ -1,0 +1,17 @@
+README.md
+setup.py
+calc/__init__.py
+calc/command.py
+calc/history.py
+calc/logger.py
+calc/plugin_loader.py
+calc.egg-info/PKG-INFO
+calc.egg-info/SOURCES.txt
+calc.egg-info/dependency_links.txt
+calc.egg-info/top_level.txt
+calc/commands/__init__.py
+calc/commands/add.py
+tests/test_add.py
+tests/test_history.py
+tests/test_logger.py
+tests/test_plugin_loader.py
